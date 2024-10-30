@@ -8,11 +8,11 @@ This means that a single game title can be found multiple times in different row
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### **Project Components**
-1. In the first part I explore the data using MySQL, creating new tables as well as inspecting the top sales for each game, genre, region and the sales of each genre per year.
+1. *In the first part I explore the data using MySQL*, creating new tables as well as inspecting the top sales for each game, genre, region and the sales of each genre per year.
 
-2. Tableau was used to [visualize](https://public.tableau.com/app/profile/john.lagatoras/viz/game_sales_17303126486020/Dashboard2#2) game sales per title and per genre in each region, givng insights on preference difference per region.
+2. *Tableau was used to [visualize](https://public.tableau.com/app/profile/john.lagatoras/viz/game_sales_17303126486020/Dashboard2#2)* game sales per title and per genre in each region, givng insights on preference difference per region.
 
-3. Lastly, I tried building machine learning model in Python (jupyter Notebook), in an attempt to predict a game's success based only on the information available in this data set.
+3. *Lastly, I tried building machine learning model* using Python (jupyter Notebook), in an attempt to predict a game's success based only on the information available in this data set.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
