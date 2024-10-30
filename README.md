@@ -10,7 +10,7 @@ The project itself contains 3 parts.
 
 1. In the first part I explore the data using MySQL, creating new tables as well as inspecting the top sales for each game, genre, region and the sales of each genre per year.
 
-2. After exploring the data as tables, Tableau was used to visualize game sales per title and per genre in each region, giivng insights on how each of the major gaming communities, during the timeframe of the data, (NA, EU, JP) differ in preferences.
+2. After exploring the data as tables, Tableau was used to [visualize](https://public.tableau.com/app/profile/john.lagatoras/viz/game_sales_17303126486020/Dashboard2#2) game sales per title and per genre in each region, givng insights on how each of the major gaming communities, during the timeframe of the data, (NA, EU, JP) differ in preferences.
 
 3. Lastly, I tried building machine learning model in Python (jupyter Notebook), in an attempt to predict a game's success based only on the information available in this data set.
 
