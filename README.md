@@ -24,4 +24,4 @@ was not accurate at all, as the model predicted a lot more successes than there 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[Source](https://www.databasestar.com/sample-database-video-games/)**
+**[Data source](https://www.databasestar.com/sample-database-video-games/)**
